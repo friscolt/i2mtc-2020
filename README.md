@@ -46,7 +46,7 @@ Please email us your comments, criticism, and questions at `francisco.lopez@inao
 
 If you use functions from this script in your work, please use the BibTex entry below for citation.
 
-[IEEE's paper](https://ieeexplore.ieee.org/abstract/document/9129242)
+[[IEEE's paper]](https://ieeexplore.ieee.org/abstract/document/9129242)
 
 ```
 @INPROCEEDINGS{9129242,
