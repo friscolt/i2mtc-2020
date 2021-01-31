@@ -11,9 +11,9 @@ This repository has the functions to implement the methods described in the conf
 
 The visualization and localization of blood vessels in Laser Speckle Contrast Imaging is an important task to determine the presence of blood vessels in the biological tissue. However, Laser Speckle Contrast Imaging has some drawbacks when the depth of the blood vessels increases. This work establishes a methodology based on a wavelet approach to improve the localization of blood vessels in *in-vitro* contrast images. It also determines a useful exposure time to improve the localization of blood vessels. The results show that the wavelet approach allows blood vessels to be located up to 510µm deep under a skin phantom. In addition, it states that high exposure times increase the percentage of similarity in traditional models and visualization enhancement models.
 
-[Paper](https://ieeexplore.ieee.org/document/9129242)
-[Preprint](https://www.researchgate.net/publication/342582619_Effect_of_the_Exposure_Time_in_Laser_Speckle_Imaging_for_Improving_Blood_Vessels_Localization_a_Wavelet_Approach)
-[Keynote](https://www.researchgate.net/publication/341626117_Effect_of_the_Exposure_Time_in_Laser_Speckle_Imaging_for_Improving_Blood_Vessels_Localization_a_Wavelet_Approach)
+[[Paper]](https://ieeexplore.ieee.org/document/9129242)
+[[Preprint]](https://www.researchgate.net/publication/342582619_Effect_of_the_Exposure_Time_in_Laser_Speckle_Imaging_for_Improving_Blood_Vessels_Localization_a_Wavelet_Approach)
+[[Keynote]](https://www.researchgate.net/publication/341626117_Effect_of_the_Exposure_Time_in_Laser_Speckle_Imaging_for_Improving_Blood_Vessels_Localization_a_Wavelet_Approach)
 
 
 ## Contents
