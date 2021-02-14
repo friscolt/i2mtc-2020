@@ -1,7 +1,3 @@
-i2mtc-2020
-
-
-
 # Effect of the Exposure Time in Laser Speckle Imaging for Improving Blood Vessels Localization: a Wavelet Approach 
 
 This repository has the functions to implement the methods described in the conference article: 
