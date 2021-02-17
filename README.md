@@ -19,10 +19,6 @@ The visualization and localization of blood vessels in Laser Speckle Contrast Im
   * Field 1, contains a package of 30 *in-vitro* speckle images of a straight vessel at a depth of 0µm. The image is a 445x461x30 grayscale matrix.
   * Field 2, contains the ground truth of the *in-vitro* speckle image of a straight vessel. The image is a 445x461 pixel logical type matrix. 
 
-<<<<<<< Updated upstream
-* [`main.mlx`](https://github.com/friscolt/i2mtc-2020/blob/master/main.mlx) - Matlab live script. It contains an example of the image processing available in [`data.mat`](https://github.com/friscolt/i2mtc-2020/blob/master/data.mat). This live script describes step by step the use of the auxiliary functions described in [`f_i2mtc2020.m`](https://github.com/friscolt/i2mtc-2020/blob/master/f_i2mtc2020.m) 
-=======
-
 * [`demo.mlx`](https://github.com/friscolt/i2mtc-2020/blob/master/main.mlx) - Matlab live script. It contains an example of the image processing available in [`data.mat`](https://github.com/friscolt/i2mtc-2020/blob/master/data.mat). This live script describes step by step the use of the auxiliary functions described in [`f_i2mtc2020.m`](https://github.com/friscolt/i2mtc-2020/blob/master/f_i2mtc2020.m) 
 >>>>>>> Stashed changes
 
