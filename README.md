@@ -30,7 +30,8 @@ No additional content directories are declared.
 
 Code for algorithms, applications and tools contributed by:
 
-F. Lopez-Tiro, H. Peregrina-Barreto, J. Rangel-Magdaleno, J. C. Ramirez-San-Juan and J. M. Ramirez-Cortes
+[F. Lopez-Tiro](https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es), [H. Peregrina-Barreto](https://scholar.google.es/citations?user=Wh2blp0AAAAJ&hl=es), [J. Rangel-Magdaleno](https://scholar.google.es/citations?user=aBNkfEsAAAAJ&hl=es), [J. M. Ramirez-Cortes](https://scholar.google.es/citations?user=QzevLU0AAAAJ&hl=es), and [J. C. Ramirez-San-Juan](https://scholar.google.es/citations?user=xN03bqgAAAAJ&hl=es)
+
 
 Please email us your comments, criticism, and questions at [`francisco.lopez@inaoe.mx`](mailto:francisco.lopez@inaoe.com?subject=[GitHub]%20i2mtc2020%20repository)
 
